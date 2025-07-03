@@ -1,3 +1,22 @@
 # MI-PRIMER-REPO
 
-Este es mi primer repositorio en GitHub. Aquí estoy aprendiendo a usar Git, GitHub y el lenguaje Markdown
+
+## Descripción
+Este es mi primer repositorio en GitHub. Aquí estoy aprendiendo a usar Git, GitHub y el lenguaje Markdown.
+
+## Autor
+Belman Marín
+
+## Tecnologías utilizadas
+- Git
+- GitHub
+- Markdown
+
+## Fecha
+27 de junio de 2025
+
+##  Enlace al proyecto
+
+
+## 📝Licencia
+MIT
